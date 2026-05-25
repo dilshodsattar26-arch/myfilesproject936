@@ -1,0 +1,8 @@
+{
+    "name": "dbroute-service",
+    "version": "1.0.936",
+    "private": false,
+    "environment": "production",
+    "build_id": 493,
+    "allow_public_access": true
+}
